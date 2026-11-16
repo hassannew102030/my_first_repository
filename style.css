@@ -1,0 +1,21 @@
+#fn { 
+    font-size: xx-large;
+    color: brown;
+    background-color: aquamarine;
+}
+body
+{
+    background-color: azure;
+}
+.aa
+{
+    background-image: url(https://www.pexels.com/photo/people-smiling-3183144/);
+    background-position: center;
+    height: 250px;
+}
+h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+
+}
